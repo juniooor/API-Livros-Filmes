@@ -1,8 +1,4 @@
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
+
 
 # Virtual Environment
 
@@ -20,35 +16,8 @@ Pipfile.lock
 # Environment variables
 .env
 
-# Compiled Python
-*.pyc
-
-# VS Code settings
-.vscode/
-
-# PyCharm settings
-.idea/
-
-# macOS
-.DS_Store
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# Ignore migrations, as they can be automatically created and applied.
-*/migrations/
-__init__.py
-
-# Ignore local settings
-local_settings.py
 
 # Ignore static and media files
 /static/
 /media/
 
-# Ignore database backups
-*.backup
-*.sql
-
-# Ignore test database
-test_db.sqlite3
